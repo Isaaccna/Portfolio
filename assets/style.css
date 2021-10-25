@@ -269,12 +269,10 @@ footer ul li a {
             justify-content: space-between;
             align-items: flex-start;
         }
-        .run{
+        .projects{
             flex:1
         }
-        .horiseon{
-            flex:1;
-        }
+        
         #work img {
             width:60%;
             height: auto;
